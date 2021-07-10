@@ -60,6 +60,7 @@ namespace Listas1
                     Console.WriteLine(obj);
                 }
             }
+            Console.WriteLine("Teste completo");
         }
     }
 }
